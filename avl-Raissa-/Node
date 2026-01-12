@@ -1,0 +1,9 @@
+public class Node{
+    private int valor, altura;
+
+    private Node esquerda, direita, pai;
+
+public static void main(String[] args) 
+    System.out.println("Testando minha árvore AVL!");
+    // Seu código de teste aqui
+}
